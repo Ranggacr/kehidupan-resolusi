@@ -1,8 +1,10 @@
 RENCANA MENJADI MUSISI
 
 - menulis lagu
-  *genre pop
-  *R&B
+  *genre rock
+  *indie
+  *jazz
+  *pop
 - recording
 - mixing
 - mengikuti gigs
